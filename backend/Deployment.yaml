@@ -19,3 +19,4 @@ spec:
           image: rugendoe/backend-image:2.0.0
           ports:
             - containerPort: 5000
+            
