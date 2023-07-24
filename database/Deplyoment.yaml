@@ -17,7 +17,6 @@ spec:
       containers:
         - name: frontend
           image: rugendoe/client-image:1.0.0
-          tty: true
           ports:
             - containerPort: 3000
           
