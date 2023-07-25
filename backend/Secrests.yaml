@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: backend-secrets
+data:
+  MONGODB_URI: bW9uZ29kYitzcnY6Ly9FcmljdXNlcjE6dW41MTFGT2NiRm42RTVDR0AwLjAuMC4wLzI3MDE3
