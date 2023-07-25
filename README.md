@@ -1,5 +1,5 @@
 # Kubernetes Deployment
-### In this project, we deploy the yolo marketing microsercises using kubernete. The system should work as expected and users should be able to querry and add objects to the database.
+### In this project, we deploy the yolo marketing microsercises using kubernetes. The system should work as expected and users should be able to querry and add objects to the database.
 
 ## Authors
 1. Eric
